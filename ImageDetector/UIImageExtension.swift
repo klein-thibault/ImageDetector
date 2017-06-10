@@ -8,6 +8,7 @@
 
 import UIKit
 
+// Source: https://stackoverflow.com/a/44422838
 extension UIImage {
 
     func resize(to newSize: CGSize) -> UIImage {
